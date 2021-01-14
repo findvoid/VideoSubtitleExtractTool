@@ -1,0 +1,32 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+api.vc.bilibili.com	FALSE	/link_setting/v1/link_setting	FALSE	0	l	v
+api.vc.bilibili.com	FALSE	/session_svr/v1/session_svr	FALSE	0	l	v
+message.bilibili.com	FALSE	/api/tooltip	FALSE	0	l	v
+live.bilibili.com	FALSE	/blackboard	FALSE	0	finger	158939783
+data.bilibili.com	FALSE	/v/web	FALSE	1690539521	buvid2	2553AC49-AC3D-4A94-9D92-A511EF19231E143084infoc
+.bilibili.com	TRUE	/	FALSE	1627467521	_uuid	6D0E644F-E011-8DC2-EE51-9EE3024DF90421822infoc
+.bilibili.com	TRUE	/	FALSE	1690539521	buvid3	2553AC49-AC3D-4A94-9D92-A511EF19231E143084infoc
+.bilibili.com	TRUE	/	FALSE	1668121200	rpdid	|(k||lR)ukk)0J'ulmYluu)|k
+.bilibili.com	TRUE	/	FALSE	1629365863	sid	ht6gj47q
+.bilibili.com	TRUE	/	FALSE	1642053119	CURRENT_FNVAL	80
+.bilibili.com	TRUE	/	FALSE	1642053119	blackside_state	1
+.bilibili.com	TRUE	/	FALSE	1639823987	fingerprint3	9d7375acdcc74f17a6bc121340f74718
+.bilibili.com	TRUE	/	FALSE	1639823988	fingerprint	aac59a947754d74856148e049d9eb866
+.bilibili.com	TRUE	/	FALSE	1639823988	fingerprint_s	c5e9e814451208364cbcbf5860ab76f2
+.bilibili.com	TRUE	/	FALSE	1639823988	buivd_fp	2553AC49-AC3D-4A94-9D92-A511EF19231E143084infoc
+.bilibili.com	TRUE	/	FALSE	1639823988	buvid_fp_plain	2553AC49-AC3D-4A94-9D92-A511EF19231E143084infoc
+.manga.bilibili.com	TRUE	/	FALSE	1641890735	Hm_lvt_a69e400ba5d439df060bf330cd092c0d	1610354568,1610354735
+.manga.bilibili.com	TRUE	/	FALSE	1641890735	Hm_lvt_6ab26a3edfb92b96f655b43a89b9ca70	1610354568,1610354735
+www.bilibili.com	FALSE	/	FALSE	0	finger	158939783
+.bilibili.com	TRUE	/	FALSE	253402300799	PVID	1
+passport.bilibili.com	FALSE	/	FALSE	0	finger	158939783
+space.bilibili.com	FALSE	/	FALSE	0	finger	158939783
+.bilibili.com	TRUE	/	FALSE	1642056113	buvid_fp	2553AC49-AC3D-4A94-9D92-A511EF19231E143084infoc
+api.bilibili.com	FALSE	/	FALSE	1610522178	bfe_id	61a513175dc1ae8854a560f6b82b37af
+.bilibili.com	TRUE	/	FALSE	1626072620	DedeUserID	67402819
+.bilibili.com	TRUE	/	FALSE	1626072620	DedeUserID__ckMd5	ef84abc435451537
+.bilibili.com	TRUE	/	FALSE	1626072620	SESSDATA	f1c7ac48%2C1626073620%2C4b6b7*11
+.bilibili.com	TRUE	/	FALSE	1626072620	bili_jct	ca4d4d89603e594af50e7dc8d2855687
