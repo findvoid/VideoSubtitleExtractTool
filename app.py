@@ -49,13 +49,13 @@ def flv_to_wav(file_path):
     flv = pydub_as.from_flv(file_path)
     wav_save_dir = os.path.join(audio_after_dir, str(int(round(time.time() * 1000))))
     cp_utils.is_dir_existed(wav_save_dir)
-    flv_duration = int(flv.duration_seconds * 5000)  # 获得视频时长
-    part_count = math.ceil(flv_duration / 5000)  # 录音段数 5s为1段
-    last_start = flv_duration - flv_duration % 5000
+    flv_duration = int(flv.duration_seconds * 60000)  # 获得视频时长
+    part_count = math.ceil(flv_duration / 60000)  # 录音段数 5s为1段
+    last_start = flv_duration - flv_duration % 60000
     print("待处理视频时长为：{}，裁剪为：{} 段".format(flv_duration, part_count))
     for part in range(0, part_count - 1):
-        start = part * 5000
-        end = (part + 1) * 5000 - 1
+        start = part * 60000
+        end = (part + 1) * 60000 - 1
         wav_part = flv[start: end]
         print("导出时间段：{} - {}".format(start, end))
         wav_part.export(os.path.join(wav_save_dir, "{}.wav".format(part)), format="wav")
